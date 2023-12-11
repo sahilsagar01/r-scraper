@@ -1,0 +1,2328 @@
+[
+  [
+    {
+      "HospitalName": "Akasam Hospital",
+      "HospitalAddress": "6-4-4 Mahipala Street,6-4-4 Mahipala Street,6-4-4 Mahipala Street, ANDHRA PRADESH, AMALAPURAM, 533201",
+      "City": "AMALAPURAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 533201"
+    }
+  ],
+  [
+    {
+      "HospitalName": "VASAN EYE CARE HOSPITAL (A UNIT OF VASAN HEALTH CARE PRIVATE LTD)",
+      "HospitalAddress": "#15/581, Street Raju Road, Anantapur,,, ANDHRA PRADESH, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "Balaji Eye Hospital",
+      "HospitalAddress": "18/1009/B Behind New RTC Bus Stand Guntakal,18/1009/B Behind New RTC Bus Stand Guntakal,18/1009/B Behind New RTC Bus Stand Guntakal, ANDHRA PRADESH, ANANTAPUR, 515801",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515801"
+    },
+    {
+      "HospitalName": "AASHA HOSPITALS",
+      "HospitalAddress": "7-201, COURT ROAD, ANANTAPUR,,, ANDHRA PRADESH, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "Mythri Hospital",
+      "HospitalAddress": "15/721, Near Munirathnam Transport Cross Road, Kamalanagar,,,, ANDHRA PRADESH, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "SAVEERA INSTITUTE OF MEDICAL SCIENCES PRIVATE LIMITED",
+      "HospitalAddress": "1-1348 Srinagar Opp Sakshi Office Rudrapeta Anantapur.,,, ANDHRA PRADESH, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "CARE & CURE MULTI SPECIALITY HOSPITAL",
+      "HospitalAddress": "D No 13-2-392-4 NTR Marg Near RTC Bus Stand Care And Cure Circle Ananthapuram,,, ANDHRA PRADESH, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "Sreenivasa Childrens Hospital",
+      "HospitalAddress": "#13/3/488, Khaja Nagar, Near Ganga Gowri Cine Complex, Old Town, Anantapur, Andhrapradesh., TELANGANA, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "Sri Sai Appolo Dental Hospital",
+      "HospitalAddress": "15/523-27,Surya nagar 80 feet road,15/523-27,Surya nagar 80 feet road,15/523-27,Surya nagar 80 feet road, ANDHRA PRADESH, ANANTAPUR, 515001",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515001"
+    },
+    {
+      "HospitalName": "Tirumala Hospital",
+      "HospitalAddress": "D.No.6-9-267-24, Ramnagar Near Ramnagar Flyover,D.No.6-9-267-24, Ramnagar Near Ramnagar Flyover,D.No.6-9-267-24, Ramnagar Near Ramnagar Flyover, ANDHRA PRADESH, ANANTAPUR, 515004",
+      "City": "ANANTAPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 515004"
+    }
+  ],
+  null,
+  [
+    {
+      "HospitalName": "Omega Bhimavaram Hospitals (Unit of Bhimavaram Institute of Oncology Pvt Ltd)",
+      "HospitalAddress": "D.No 7-32/2 J.P Road Bhimavaram West Godavari (District),D.No 7-32/2 J.P Road Bhimavaram West Godavari (District),D.No 7-32/2 J.P Road Bhimavaram West Godavari (District), ANDHRA PRADESH, KALLA (MDL), 534204",
+      "City": "BHIMAVARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534204"
+    },
+    {
+      "HospitalName": "Pragathi Nursing Home",
+      "HospitalAddress": "Marellavari Street,,, ANDHRA PRADESH, CHILAKALURIPET, 522616",
+      "City": "BHIMAVARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522616"
+    },
+    {
+      "HospitalName": "Imperial Hospitals",
+      "HospitalAddress": "27-14-13/A opp Ganesh Canteen JP Road,27-14-13/A opp Ganesh Canteen JP Road,27-14-13/A opp Ganesh Canteen JP Road, ANDHRA PRADESH, BHIMAVARAM, 534202",
+      "City": "BHIMAVARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534202"
+    },
+    {
+      "HospitalName": "Sri Krishna Eye Institute",
+      "HospitalAddress": "D No 27-1-8, Opp Ananda Inn, \\Njuvvalapalem Road,,D No 27-1-8, Opp Ananda Inn, \\Njuvvalapalem Road,,D No 27-1-8, Opp Ananda Inn, \\Njuvvalapalem Road,, ANDHRA PRADESH, BHIMAVARAM, 534202",
+      "City": "BHIMAVARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534202"
+    }
+  ],
+  null,
+  [
+    {
+      "HospitalName": "Sri Satish Nursing Home",
+      "HospitalAddress": "15-253/ Marellavani Sreet,,Chilakaluripet,,Guntur, ANDHRA PRADESH, CHILAKALURIPET, 522616",
+      "City": "CHILAKALURIPET ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522616"
+    },
+    {
+      "HospitalName": "SMILE4ALL DENTAL CLINIC",
+      "HospitalAddress": "Gurrala Chavidi Street, Venugonda, old police station, next to vinayaka temple,Gurrala Chavidi Street, Venugonda, old police station, next to vinayaka temple,Gurrala Chavidi Street, Venugonda, old police station, next to vinayaka temple, ANDHRA PRADESH, CHILAKALURIPET, 522616",
+      "City": "CHILAKALURIPET ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522616"
+    }
+  ],
+  null,
+  [
+    {
+      "HospitalName": "LIFE LINE HOSPITAL",
+      "HospitalAddress": "10/259 GANDHI ROAD,,, ANDHRA PRADESH, CHITTOOR, 517001",
+      "City": "CHITTOOR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 517001"
+    },
+    {
+      "HospitalName": "Sri Chakra Hospital",
+      "HospitalAddress": "10-13-496, Reddy & Reddy Colony, Chittor, Tirupur, Andhra Pradesh, Chittoor, 517502",
+      "City": "CHITTOOR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 517502"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Dr.Bhanu Kiran Dental Care",
+      "HospitalAddress": "D.No: 23A-7-81, 1st Floor, Mulukutlavari Street, Railway Track Road, Ramachandra Rao Petq,D.No: 23A-7-81, 1st Floor, Mulukutlavari Street, Railway Track Road, Ramachandra Rao Pet,D.No: 23A-7-81, 1st Floor, Mulukutlavari Street, Railway Track Road, Ramachandra Rao Pet, ANDHRA PRADESH, ELURU, 534002",
+      "City": "ELURU ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534002"
+    },
+    {
+      "HospitalName": "Lalitha Dental Care",
+      "HospitalAddress": "Srinivasa Theatre Road, Beside Eluru Printers, Beside Ramachandra Rao Powerpet,,Srinivasa Theatre Road, Beside Eluru Printers, Beside Ramachandra Rao Powerpet,,Srinivasa Theatre Road, Beside Eluru Printers, Beside Ramachandra Rao Powerpet,, ANDHRA PRADESH, ELURU, 534002",
+      "City": "ELURU ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534002"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Dr.Bhanu Kiran Dental Care",
+      "HospitalAddress": "D.No: 23A-7-81, 1st Floor, Mulukutlavari Street, Railway Track Road, Ramachandra Rao Petq,D.No: 23A-7-81, 1st Floor, Mulukutlavari Street, Railway Track Road, Ramachandra Rao Pet,D.No: 23A-7-81, 1st Floor, Mulukutlavari Street, Railway Track Road, Ramachandra Rao Pet, ANDHRA PRADESH, ELURU, 534002",
+      "City": "GIDDALUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534002"
+    },
+    {
+      "HospitalName": "Lalitha Dental Care",
+      "HospitalAddress": "Srinivasa Theatre Road, Beside Eluru Printers, Beside Ramachandra Rao Powerpet,,Srinivasa Theatre Road, Beside Eluru Printers, Beside Ramachandra Rao Powerpet,,Srinivasa Theatre Road, Beside Eluru Printers, Beside Ramachandra Rao Powerpet,, ANDHRA PRADESH, ELURU, 534002",
+      "City": "GIDDALUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 534002"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Annapurna Multispeciality Hospital",
+      "HospitalAddress": "Eluru Road,Opp Bank of Baroda,, ANDHRA PRADESH, GUDIVADA, 521301",
+      "City": "GUDIVADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 521301"
+    },
+    {
+      "HospitalName": "Sri Sai Dental",
+      "HospitalAddress": "Opposite to Homeopathy College, Rajendra Nagar, Satyanarayana Puram, Eluru Road,Opposite to Homeopathy College, Rajendra Nagar, Satyanarayana Puram, Eluru Road,Opposite to Homeopathy College, Rajendra Nagar, Satyanarayana Puram, Eluru Road, ANDHRA PRADESH, GUDIVADA, 521301",
+      "City": "GUDIVADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 521301"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Sri Geetha Super Specialty Eye Hospital",
+      "HospitalAddress": "5-91-2 Lakshmi Puram 4Th Line, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "SANJIVI ORTHOPAEDIC AND PHYSIO THERAPY CENTRE",
+      "HospitalAddress": "Lakshmi Puram 4th Line Guntur.,,, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "Vijaya Eye Hospital",
+      "HospitalAddress": "5-87-104, Lakshmipuram main road,Guntur,, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "Samishta Hospital & Research Institute",
+      "HospitalAddress": "Kakumanu Vari Thota, 4th Line, Donka Road, Gintur,Kakumanu Vari Thota, 4th Line, Donka Road, Gintur,Kakumanu Vari Thota, 4th Line, Donka Road, Gintur, ANDHRA PRADESH, GUNTUR, 522002",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522002"
+    },
+    {
+      "HospitalName": "PRASANTHI MULTISPECIALITY HOSPITAL",
+      "HospitalAddress": "1ST LANE, AMARAVATHI ROAD BHARAT PET GUNTUR,,, ANDHRA PRADESH, GUNTUR, 522001",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522001"
+    },
+    {
+      "HospitalName": "Knr Hospital",
+      "HospitalAddress": "D.No: 4-14-227/1,Anjaneyapeta,Opp:Hindu Pharmacy College,Amaravathi Road,Guntur,Guntur(Dist),Andhra Pradesh-522007, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "SECURE DENTAL CARE",
+      "HospitalAddress": "Apple International Dental Hospital, # 13-7-72, 6th Lane, Guntur Vari Thota,Apple International Dental Hospital, # 13-7-72, 6th Lane, Guntur Vari Thota,, ANDHRA PRADESH, GUNTUR, 522001",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522001"
+    },
+    {
+      "HospitalName": "Raghu Dental & Maxillofacial Clinic",
+      "HospitalAddress": "Ramanna Pet, 1st Line Opp To Mourya Tasty Foo Near Lvr Club, Koritepadu Main Road,,Ramanna Pet, 1st Line Opp To Mourya Tasty Foo Near Lvr Club, Koritepadu Main Road,,Ramanna Pet, 1st Line Opp To Mourya Tasty Foo Near Lvr Club, Koritepadu Main Road,, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "Sri Maha Lakshmi Nursing Home",
+      "HospitalAddress": "5Th Lane, 2Nd Cross, Arunde Pet ,Opposite Sai Baskar Hospital, Lalapet,,, ANDHRA PRADESH, GUNTUR, 522002",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522002"
+    },
+    {
+      "HospitalName": "Australian Dental Clinic",
+      "HospitalAddress": "Opp:- Sitaramaya High School Besides :- Bajaj Electronics Lakshmipuram Mai Guntur,Opp:- Sitaramaya High School Besides :- Bajaj Electronics Lakshmipuram Mai Guntur,Opp:- Sitaramaya High School Besides :- Bajaj Electronics Lakshmipuram Mai Guntur, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "SURAKSHA DENTAL CLINIC",
+      "HospitalAddress": "Kubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur anKubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur an,Kubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur an,Kubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur an, ANDHRA PRADESH, GUNTUR, 522002",
+      "City": "GUNTUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522002"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Sri Geetha Super Specialty Eye Hospital",
+      "HospitalAddress": "5-91-2 Lakshmi Puram 4Th Line, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "SANJIVI ORTHOPAEDIC AND PHYSIO THERAPY CENTRE",
+      "HospitalAddress": "Lakshmi Puram 4th Line Guntur.,,, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "Vijaya Eye Hospital",
+      "HospitalAddress": "5-87-104, Lakshmipuram main road,Guntur,, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "Samishta Hospital & Research Institute",
+      "HospitalAddress": "Kakumanu Vari Thota, 4th Line, Donka Road, Gintur,Kakumanu Vari Thota, 4th Line, Donka Road, Gintur,Kakumanu Vari Thota, 4th Line, Donka Road, Gintur, ANDHRA PRADESH, GUNTUR, 522002",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522002"
+    },
+    {
+      "HospitalName": "PRASANTHI MULTISPECIALITY HOSPITAL",
+      "HospitalAddress": "1ST LANE, AMARAVATHI ROAD BHARAT PET GUNTUR,,, ANDHRA PRADESH, GUNTUR, 522001",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522001"
+    },
+    {
+      "HospitalName": "Knr Hospital",
+      "HospitalAddress": "D.No: 4-14-227/1,Anjaneyapeta,Opp:Hindu Pharmacy College,Amaravathi Road,Guntur,Guntur(Dist),Andhra Pradesh-522007, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "SECURE DENTAL CARE",
+      "HospitalAddress": "Apple International Dental Hospital, # 13-7-72, 6th Lane, Guntur Vari Thota,Apple International Dental Hospital, # 13-7-72, 6th Lane, Guntur Vari Thota,, ANDHRA PRADESH, GUNTUR, 522001",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522001"
+    },
+    {
+      "HospitalName": "Raghu Dental & Maxillofacial Clinic",
+      "HospitalAddress": "Ramanna Pet, 1st Line Opp To Mourya Tasty Foo Near Lvr Club, Koritepadu Main Road,,Ramanna Pet, 1st Line Opp To Mourya Tasty Foo Near Lvr Club, Koritepadu Main Road,,Ramanna Pet, 1st Line Opp To Mourya Tasty Foo Near Lvr Club, Koritepadu Main Road,, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "Sri Maha Lakshmi Nursing Home",
+      "HospitalAddress": "5Th Lane, 2Nd Cross, Arunde Pet ,Opposite Sai Baskar Hospital, Lalapet,,, ANDHRA PRADESH, GUNTUR, 522002",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522002"
+    },
+    {
+      "HospitalName": "Australian Dental Clinic",
+      "HospitalAddress": "Opp:- Sitaramaya High School Besides :- Bajaj Electronics Lakshmipuram Mai Guntur,Opp:- Sitaramaya High School Besides :- Bajaj Electronics Lakshmipuram Mai Guntur,Opp:- Sitaramaya High School Besides :- Bajaj Electronics Lakshmipuram Mai Guntur, ANDHRA PRADESH, GUNTUR, 522007",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522007"
+    },
+    {
+      "HospitalName": "SURAKSHA DENTAL CLINIC",
+      "HospitalAddress": "Kubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur anKubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur an,Kubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur an,Kubera Towers, First Floor,sri sainath comple above catholic syrian bank beside Bharat book Arundalpet nearest land mark - HFCC Guntur an, ANDHRA PRADESH, GUNTUR, 522002",
+      "City": "HINDUPUR ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 522002"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Karthikeya Multispeciality Hospital",
+      "HospitalAddress": "DNo.3-212/2,Neeladri Rao Peta Buliding Road,DNo.3-212/2,Neeladri Rao Peta Buliding Road,DNo.3-212/2,Neeladri Rao Peta Buliding Road, ANDHRA PRADESH, JAGGAMPETA, 533435",
+      "City": "JAGGAMPETA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 533435"
+    }
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    {
+      "HospitalName": "Anu Hospital",
+      "HospitalAddress": "Dr No. 29-28/1-13, Kovelamudivari street,,, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Citi Orthopaedic Centre",
+      "HospitalAddress": "32/16/18-A, Sikhamani Centre, Prajasakthi Nagar, Vijaywada, Andhra Pradesh,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Ravi's American Cancer Care",
+      "HospitalAddress": "Opp. Siddharth Public School,Main Gate,,Mogalrajpuram, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Sri Ram Medicare",
+      "HospitalAddress": "33-25-94, Kasturibaipet, Pushra Hotel Road,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Purna Heart Institute",
+      "HospitalAddress": "29-28/1-17 Kovelamudi Vari Street Surya Rao Pet Vijayawada 520002 Andhra Pradesh,29-28/1-17 Kovelamudi Vari Street Surya Rao Pet Vijayawada 520002 Andhra Pradesh,29-28/1-17 Kovelamudi Vari Street Surya Rao Pet Vijayawada 520002 Andhra Pradesh, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "SATEESH GASTRO AND LIVER CENTRE",
+      "HospitalAddress": "29-14-37-5 Route,PRAKASAM ROAD,,, ANDHRA PRADESH, KRISHNA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "K K HOSPITALS",
+      "HospitalAddress": "32-2/1-3A Praja Sakthi Nagar Mogalraj Puram vijayawada.,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "SRI SWARUPA SUPER SPECIALITY HOSPITAL",
+      "HospitalAddress": "Doorno-29-13-44,Kaleswararaoroad,Suryaraopet,Near Pushpa hospital.,,, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "HELP HOSPITAL",
+      "HospitalAddress": "#27.29-23,BEHIND VICTORIA MUSEUM,Governorpet, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Sunrise Hospital",
+      "HospitalAddress": "#33-25-35, Opp Corporation Bank, Bellapu, Sobhamatri Street, Pushpa Hotel Centre,,, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "S V R Neuro And Trauma Super Speciality Hospital",
+      "HospitalAddress": "40-1/1-14 ABC, Sivananda Street, Cabbipet, Vijaywada,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Beleaf Hospitals",
+      "HospitalAddress": "#28-26-60 Tagadamvavi ST Suryaraopet,Vijayawada,#28-26-60 Tagadamvavi ST Suryaraopet,Vijayawada,#28-26-60 Tagadamvavi ST Suryaraopet,Vijayawada, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Bhargav Kidney Care & Multispeciality Hospital",
+      "HospitalAddress": "29-10-43,Narasimha Naidu Street Nakkar Road Suryaraopet,29-10-43,Narasimha Naidu Street Nakkar Road Suryaraopet,29-10-43,Narasimha Naidu Street Nakkar Road Suryaraopet, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Srikara Hospitals (A Unit of Venkateshwara Ortho Healthcare Pvt Ltd)",
+      "HospitalAddress": "40-1-65 (NH-65); Opp. Eenadu Office,Ramachandra Nagar, Nr Benz Circle,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Singari ENT Hospital & Research Centre Pvt Ltd",
+      "HospitalAddress": "29-9-54,G R Naidu Street,Devloli Mili Road, ANDHRA PRADESH, VIJAYAWADA, 520001",
+      "City": "VIJAYAWADA ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520001"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Anu Hospital",
+      "HospitalAddress": "Dr No. 29-28/1-13, Kovelamudivari street,,, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Citi Orthopaedic Centre",
+      "HospitalAddress": "32/16/18-A, Sikhamani Centre, Prajasakthi Nagar, Vijaywada, Andhra Pradesh,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Ravi's American Cancer Care",
+      "HospitalAddress": "Opp. Siddharth Public School,Main Gate,,Mogalrajpuram, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Sri Ram Medicare",
+      "HospitalAddress": "33-25-94, Kasturibaipet, Pushra Hotel Road,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Purna Heart Institute",
+      "HospitalAddress": "29-28/1-17 Kovelamudi Vari Street Surya Rao Pet Vijayawada 520002 Andhra Pradesh,29-28/1-17 Kovelamudi Vari Street Surya Rao Pet Vijayawada 520002 Andhra Pradesh,29-28/1-17 Kovelamudi Vari Street Surya Rao Pet Vijayawada 520002 Andhra Pradesh, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "SATEESH GASTRO AND LIVER CENTRE",
+      "HospitalAddress": "29-14-37-5 Route,PRAKASAM ROAD,,, ANDHRA PRADESH, KRISHNA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "K K HOSPITALS",
+      "HospitalAddress": "32-2/1-3A Praja Sakthi Nagar Mogalraj Puram vijayawada.,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "SRI SWARUPA SUPER SPECIALITY HOSPITAL",
+      "HospitalAddress": "Doorno-29-13-44,Kaleswararaoroad,Suryaraopet,Near Pushpa hospital.,,, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "HELP HOSPITAL",
+      "HospitalAddress": "#27.29-23,BEHIND VICTORIA MUSEUM,Governorpet, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Sunrise Hospital",
+      "HospitalAddress": "#33-25-35, Opp Corporation Bank, Bellapu, Sobhamatri Street, Pushpa Hotel Centre,,, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "S V R Neuro And Trauma Super Speciality Hospital",
+      "HospitalAddress": "40-1/1-14 ABC, Sivananda Street, Cabbipet, Vijaywada,,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Beleaf Hospitals",
+      "HospitalAddress": "#28-26-60 Tagadamvavi ST Suryaraopet,Vijayawada,#28-26-60 Tagadamvavi ST Suryaraopet,Vijayawada,#28-26-60 Tagadamvavi ST Suryaraopet,Vijayawada, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Bhargav Kidney Care & Multispeciality Hospital",
+      "HospitalAddress": "29-10-43,Narasimha Naidu Street Nakkar Road Suryaraopet,29-10-43,Narasimha Naidu Street Nakkar Road Suryaraopet,29-10-43,Narasimha Naidu Street Nakkar Road Suryaraopet, ANDHRA PRADESH, VIJAYAWADA, 520002",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520002"
+    },
+    {
+      "HospitalName": "Srikara Hospitals (A Unit of Venkateshwara Ortho Healthcare Pvt Ltd)",
+      "HospitalAddress": "40-1-65 (NH-65); Opp. Eenadu Office,Ramachandra Nagar, Nr Benz Circle,, ANDHRA PRADESH, VIJAYAWADA, 520010",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520010"
+    },
+    {
+      "HospitalName": "Singari ENT Hospital & Research Centre Pvt Ltd",
+      "HospitalAddress": "29-9-54,G R Naidu Street,Devloli Mili Road, ANDHRA PRADESH, VIJAYAWADA, 520001",
+      "City": "VISAKHAPATNAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 520001"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Indira Hospital",
+      "HospitalAddress": "Opp: Alfa Scans, Fort Junction,,, ANDHRA PRADESH, VIZIANAGARAM, 535002",
+      "City": "VIZIANAGARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 535002"
+    },
+    {
+      "HospitalName": "Venkatarama Hospital",
+      "HospitalAddress": "Opposite R.T.C. Complex, Behind Revenue Guest House, Allied Housing Society, Balaji Nagar,,, ANDHRA PRADESH, VIZIANAGARAM, 535001",
+      "City": "VIZIANAGARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 535001"
+    },
+    {
+      "HospitalName": "Pushpagiri Eye Hospital (A Division of Pushpagiri Healthcare Hospital)",
+      "HospitalAddress": "Sy No. 521,Besides TTD Kalyanamandapam,Alaknagar, ANDHRA PRADESH, VIZIANAGARAM, 535002",
+      "City": "VIZIANAGARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 535002"
+    },
+    {
+      "HospitalName": "SECURE DENTAL CARE",
+      "HospitalAddress": "Apple International Dental Hospital, # 8-12-13/1, Opp.Fatima Complex, Lower Tankbund Road, Near RTC Complex, Vizianagaram,Apple International Dental Hospital, # 8-12-13/1, Opp.Fatima Complex, Lower Tankbund Road, Near RTC Complex, Vizianagaram,, ANDHRA PRADESH, VIZIANAGARAM, 535001",
+      "City": "VIZIANAGARAM ",
+      "State": "ANDHRA PRADESH",
+      "Pincode": " 535001"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Indira Hospital",
+      "HospitalAddress": "Opp: Alfa Scans, Fort Junction,,, ANDHRA PRADESH, VIZIANAGARAM, 535002",
+      "City": "NAHARLAGUN ",
+      "State": "ARUNACHAL PRADESH",
+      "Pincode": " 535002"
+    },
+    {
+      "HospitalName": "Venkatarama Hospital",
+      "HospitalAddress": "Opposite R.T.C. Complex, Behind Revenue Guest House, Allied Housing Society, Balaji Nagar,,, ANDHRA PRADESH, VIZIANAGARAM, 535001",
+      "City": "NAHARLAGUN ",
+      "State": "ARUNACHAL PRADESH",
+      "Pincode": " 535001"
+    },
+    {
+      "HospitalName": "Pushpagiri Eye Hospital (A Division of Pushpagiri Healthcare Hospital)",
+      "HospitalAddress": "Sy No. 521,Besides TTD Kalyanamandapam,Alaknagar, ANDHRA PRADESH, VIZIANAGARAM, 535002",
+      "City": "NAHARLAGUN ",
+      "State": "ARUNACHAL PRADESH",
+      "Pincode": " 535002"
+    },
+    {
+      "HospitalName": "SECURE DENTAL CARE",
+      "HospitalAddress": "Apple International Dental Hospital, # 8-12-13/1, Opp.Fatima Complex, Lower Tankbund Road, Near RTC Complex, Vizianagaram,Apple International Dental Hospital, # 8-12-13/1, Opp.Fatima Complex, Lower Tankbund Road, Near RTC Complex, Vizianagaram,, ANDHRA PRADESH, VIZIANAGARAM, 535001",
+      "City": "NAHARLAGUN ",
+      "State": "ARUNACHAL PRADESH",
+      "Pincode": " 535001"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Indira Hospital",
+      "HospitalAddress": "Opp: Alfa Scans, Fort Junction,,, ANDHRA PRADESH, VIZIANAGARAM, 535002",
+      "City": "BARPETA ",
+      "State": "ASSAM",
+      "Pincode": " 535002"
+    },
+    {
+      "HospitalName": "Venkatarama Hospital",
+      "HospitalAddress": "Opposite R.T.C. Complex, Behind Revenue Guest House, Allied Housing Society, Balaji Nagar,,, ANDHRA PRADESH, VIZIANAGARAM, 535001",
+      "City": "BARPETA ",
+      "State": "ASSAM",
+      "Pincode": " 535001"
+    },
+    {
+      "HospitalName": "Pushpagiri Eye Hospital (A Division of Pushpagiri Healthcare Hospital)",
+      "HospitalAddress": "Sy No. 521,Besides TTD Kalyanamandapam,Alaknagar, ANDHRA PRADESH, VIZIANAGARAM, 535002",
+      "City": "BARPETA ",
+      "State": "ASSAM",
+      "Pincode": " 535002"
+    },
+    {
+      "HospitalName": "SECURE DENTAL CARE",
+      "HospitalAddress": "Apple International Dental Hospital, # 8-12-13/1, Opp.Fatima Complex, Lower Tankbund Road, Near RTC Complex, Vizianagaram,Apple International Dental Hospital, # 8-12-13/1, Opp.Fatima Complex, Lower Tankbund Road, Near RTC Complex, Vizianagaram,, ANDHRA PRADESH, VIZIANAGARAM, 535001",
+      "City": "BARPETA ",
+      "State": "ASSAM",
+      "Pincode": " 535001"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Lower Assam Hospital & Research Centre",
+      "HospitalAddress": "Chapaguri Road North, Amguri,Bongaigaon,Assam-783380, ASSAM, BONGAIGAON, 783380",
+      "City": "BONGAIGAON ",
+      "State": "ASSAM",
+      "Pincode": " 783380"
+    }
+  ],
+  null,
+  null,
+  null,
+  null,
+  [
+    {
+      "HospitalName": "Pragjyotishpur Hospital & Pvt Ltd (Unit Sanjevani Hospital)",
+      "HospitalAddress": "A.T. Road, Maligaon, ASSAM, GUWAHATI, 781011",
+      "City": "GUWAHATI ",
+      "State": "ASSAM",
+      "Pincode": " 781011"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Pragjyotishpur Hospital & Pvt Ltd (Unit Sanjevani Hospital)",
+      "HospitalAddress": "A.T. Road, Maligaon, ASSAM, GUWAHATI, 781011",
+      "City": "JORHAT ",
+      "State": "ASSAM",
+      "Pincode": " 781011"
+    }
+  ],
+  null,
+  null,
+  null,
+  [
+    {
+      "HospitalName": "Nalbari Multispeciality Hospital",
+      "HospitalAddress": "Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11, ASSAM, NALBARI, 781335",
+      "City": "NALBARI ",
+      "State": "ASSAM",
+      "Pincode": " 781335"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Nalbari Multispeciality Hospital",
+      "HospitalAddress": "Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11, ASSAM, NALBARI, 781335",
+      "City": "RANGIA ",
+      "State": "ASSAM",
+      "Pincode": " 781335"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Nalbari Multispeciality Hospital",
+      "HospitalAddress": "Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11, ASSAM, NALBARI, 781335",
+      "City": "SILCHAR ",
+      "State": "ASSAM",
+      "Pincode": " 781335"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Nalbari Multispeciality Hospital",
+      "HospitalAddress": "Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11,Alternatine Road,Nalbari Town Ward No.11, ASSAM, NALBARI, 781335",
+      "City": "SIVASAGAR ",
+      "State": "ASSAM",
+      "Pincode": " 781335"
+    }
+  ],
+  null,
+  [
+    {
+      "HospitalName": "Jeevan Jyoti Nursing Home",
+      "HospitalAddress": "Parbatia Tinushkia Assam, Assam, Tinsukia, 786125",
+      "City": "TINSUKIA ",
+      "State": "ASSAM",
+      "Pincode": " 786125"
+    },
+    {
+      "HospitalName": "Abhish Dental Spa",
+      "HospitalAddress": "1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir, ASSAM, Tinsukia , 786125",
+      "City": "TINSUKIA ",
+      "State": "ASSAM",
+      "Pincode": " 786125"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Jeevan Jyoti Nursing Home",
+      "HospitalAddress": "Parbatia Tinushkia Assam, Assam, Tinsukia, 786125",
+      "City": "ARRAH ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    },
+    {
+      "HospitalName": "Abhish Dental Spa",
+      "HospitalAddress": "1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir, ASSAM, Tinsukia , 786125",
+      "City": "ARRAH ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Jeevan Jyoti Nursing Home",
+      "HospitalAddress": "Parbatia Tinushkia Assam, Assam, Tinsukia, 786125",
+      "City": "BEGUSARAI ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    },
+    {
+      "HospitalName": "Abhish Dental Spa",
+      "HospitalAddress": "1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir, ASSAM, Tinsukia , 786125",
+      "City": "BEGUSARAI ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Jeevan Jyoti Nursing Home",
+      "HospitalAddress": "Parbatia Tinushkia Assam, Assam, Tinsukia, 786125",
+      "City": "BHAGALPUR ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    },
+    {
+      "HospitalName": "Abhish Dental Spa",
+      "HospitalAddress": "1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir, ASSAM, Tinsukia , 786125",
+      "City": "BHAGALPUR ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    }
+  ],
+  [
+    {
+      "HospitalName": "Jeevan Jyoti Nursing Home",
+      "HospitalAddress": "Parbatia Tinushkia Assam, Assam, Tinsukia, 786125",
+      "City": "BHOJPUR ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    },
+    {
+      "HospitalName": "Abhish Dental Spa",
+      "HospitalAddress": "1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir,1st Floor Durga Complex Rangagora Road Near Hanuman Mandir, ASSAM, Tinsukia , 786125",
+      "City": "BHOJPUR ",
+      "State": "BIHAR",
+      "Pincode": " 786125"
+    }
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KARNAL ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KARNAL ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KURUKSHETRA ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KURUKSHETRA ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "MAHENDRAGARH ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "MAHENDRAGARH ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "NARNAUL ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "NARNAUL ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "PALWAL ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "PALWAL ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "PANCHKULA ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "PANCHKULA ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "PANIPAT ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "PANIPAT ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "PINJORE ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "PINJORE ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "REWARI ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "REWARI ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "ROHTAK ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "ROHTAK ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SHAHABAD ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SHAHABAD ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SIRSA ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SIRSA ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SONIPAT ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SONIPAT ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "YAMUNANAGAR ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "YAMUNANAGAR ",
+      "State": "HARYANA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "HAMIRPUR ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "HAMIRPUR ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KANGRA ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KANGRA ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KULLU ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KULLU ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "MANALI ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "MANALI ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "MANDI ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "MANDI ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "NALAGARH ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "NALAGARH ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "PAONTA SAHIB ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "PAONTA SAHIB ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SHIMLA ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SHIMLA ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SIRMORE ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SIRMORE ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SOLAN ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SOLAN ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SUNDARNAGAR ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SUNDARNAGAR ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "UNA ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "UNA ",
+      "State": "HIMACHAL PRADESH",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "ANANTNAG ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "ANANTNAG ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BARAMULLA ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BARAMULLA ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "JAMMU ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "JAMMU ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KATHUA ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KATHUA ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "PULWAMA ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "PULWAMA ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "REASI ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "REASI ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SOPORE ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SOPORE ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SRINAGAR ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SRINAGAR ",
+      "State": "JAMMU AND KASHMIR",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BAGODAR ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BAGODAR ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BOKARO ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BOKARO ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "DALTONGANJ ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "DALTONGANJ ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "DEOGHAR ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "DEOGHAR ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "DHANBAD ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "DHANBAD ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GIRIDIH ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GIRIDIH ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GODDA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GODDA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GUMLA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GUMLA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "HAZARIBAGH ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "HAZARIBAGH ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "JAMSHEDPUR ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "JAMSHEDPUR ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KODARMA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KODARMA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "LOHARDAGA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "LOHARDAGA ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "RAMGARH ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "RAMGARH ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "RANCHI ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "RANCHI ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "SAHIBGANJ ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "SAHIBGANJ ",
+      "State": "JHARKHAND",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "ARSIKERE ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "ARSIKERE ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BAGALKOT ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BAGALKOT ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BELGAUM ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BELGAUM ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BELLARY ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BELLARY ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BELTANGADI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BELTANGADI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BENGALURU ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BENGALURU ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BHATKAL ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BHATKAL ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BIDAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BIDAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "BIJAPUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "BIJAPUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHAMARAJANAGAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHAMARAJANAGAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHANNAPATNA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHANNAPATNA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHIKKABALLAPUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHIKKABALLAPUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHIKKAMANGALORE ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHIKKAMANGALORE ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHIKKODI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHIKKODI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHINTAMANI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHINTAMANI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "CHITRADURGA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "CHITRADURGA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "DAVANGERE ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "DAVANGERE ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "DHARWAD ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "DHARWAD ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GADAG ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GADAG ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GANGAVATHI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GANGAVATHI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GOKAK ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GOKAK ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "GULBARGA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "GULBARGA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "HASSAN ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "HASSAN ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "HAVERI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "HAVERI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "HOSPET ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "HOSPET ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "HUBLI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "HUBLI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KADUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KADUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KALABURAGI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KALABURAGI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KARKALA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KARKALA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KARWAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KARWAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KOLAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KOLAR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KOPPA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KOPPA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KOPPAL ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KOPPAL ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "KUNDAPUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "KUNDAPUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "MADIKERI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "MADIKERI ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "MALUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "MALUR ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ],
+  [
+    {
+      "HospitalName": "CYGNUS SUPERSPECIALITY HOSPITAL",
+      "HospitalAddress": "By Pass Road Huda Sect.20 Ambala Road Kaithal,,, HARYANA, KAITHAL, 136027",
+      "City": "MANDYA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    },
+    {
+      "HospitalName": "Shah Hospital",
+      "HospitalAddress": "Opp. Old Bus Stand,,, HARYANA, KAITHAL, 136027",
+      "City": "MANDYA ",
+      "State": "KARNATAKA",
+      "Pincode": " 136027"
+    }
+  ]
+]
